@@ -42,7 +42,7 @@ INRC (Indian Rupee Coin) is a decentralized cryptocurrency built on the **Polygo
 | 🌍 2026+ | Expansion & Real-World Adoption |
 
 ## **🌐 Connect with Us**  
-📍 **Website:** [inrctoken.shop](inrctoken.shop)  
+📍 **Website:** [inrctoken.shop](https://inrctoken.shop/)  
 📍 **Twitter (X):** [@inrc_token](https://twitter.com/inrc_token)  
 📍 **Instagram:** [@inrc_token](https://instagram.com/inrc_token)  
 📍 **Email:** inrctoken@gmail.com  
