@@ -1,6 +1,6 @@
 # **INRC Token – The Future of Digital Transactions**  
 
-![INRC Token](https://your-image-link.com)
+
 
 ## **📌 Introduction**  
 INRC (Indian Rupee Coin) is a decentralized cryptocurrency built on the **Polygon (Matic) blockchain**. Designed to facilitate seamless transactions, INRC combines **speed, security, and low transaction costs** to create an efficient digital currency ecosystem.
